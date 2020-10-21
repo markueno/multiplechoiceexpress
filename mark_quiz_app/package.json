@@ -1,0 +1,12 @@
+{
+  "name": "java_quiz_app",
+  "version": "1.0.0",
+  "description": "to deploy multiple choice",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "MIT",
+  "license": "ISC"
+}
